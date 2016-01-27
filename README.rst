@@ -1,3 +1,12 @@
+About this fork
+================================
+This work contains a small modification to work with the luxembourgish CACLR WS
+
+To Install this fork::
+
+    pip install git+https://github.com/Geoportail-Luxembourg/suds-jurko.git
+
+
 Overview
 =================================================
 
